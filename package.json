@@ -1,0 +1,12 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "Intro to computing assignment",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "post-cli": "^1.0.5"
+  }
+}
