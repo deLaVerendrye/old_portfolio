@@ -11266,6 +11266,16 @@ textarea.form-control-lg {
   margin: 0;
   padding-bottom: 0.5rem;
 }
+
+.portfoliobox a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #fff;
+  font-weight: 500;
+  margin: 0;
+  padding-bottom: 0.5rem;
+}
+
 .portfoliobox:hover img {
   transform: scale(1.3);
 }
